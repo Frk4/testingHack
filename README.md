@@ -1,2 +1,2 @@
 # testingHack
-hacktoberfest
+hacktoberfest -accepted
